@@ -44,6 +44,28 @@ Vue.js
 
 > Learn Vue.js by building, experimenting, and keeping things simple.
 
+
+---
+
+## 🚀 Run the Project
+
+### 1️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+Installs all packages required by the project.
+
+### 2️⃣ Start Development Server
+
+```bash
+npm run dev
+```
+
+Starts the Vue.js development server locally.
+
+
 ---
 
 <div align="center">
