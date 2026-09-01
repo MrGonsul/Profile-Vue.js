@@ -56,24 +56,69 @@ Vue.js
 
 ## 🚀 Run the Project
 
-### 1️⃣ Install Dependencies
+### 📦 Install Dependencies
 
 ```bash
 npm install
 ```
 
-Installs all packages required by the project.
+Installs all dependencies required by the project.
 
-### 2️⃣ Start Development Server
+### ⚡ Start Development Server
 
 ```bash
 npm run dev
 ```
 
-Starts the Vue.js development server locally.
+Example terminal output:
 
+```text
+> vue-project@0.0.0 dev
+> vite
+
+
+  VITE v7.0.0  ready in 245 ms
+
+  ➜  Local:   http://localhost:0000/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+```
+
+### ⌨️ Vite Shortcuts
+
+While the development server is running:
+
+```text
+  ➜  press h + enter to show help
+```
+
+| Shortcut    | Action                      |
+| ----------- | --------------------------- |
+| `r + Enter` | Restart the server          |
+| `u + Enter` | Show server URL             |
+| `o + Enter` | Open the project in browser |
+| `c + Enter` | Clear the terminal          |
+| `q + Enter` | Quit the development server |
+| `h + Enter` | Show help                   |
+
+### 🌐 Open in Browser
+
+You can copy the **Local URL**:
+
+```text
+http://localhost:5173/
+```
+
+Or simply press:
+
+```text
+o + Enter
+```
+
+Vite will open the project automatically in your browser. 🚀
 
 ---
+
 
 <div align="center">
 
