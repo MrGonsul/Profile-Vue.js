@@ -106,7 +106,7 @@ While the development server is running:
 You can copy the **Local URL**:
 
 ```text
-http://localhost:5173/
+http://localhost:0000/
 ```
 
 Or simply press:
