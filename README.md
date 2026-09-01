@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="./screenshot.png" alt="Screenshot" width="40%">
+
+</div>
+
+##
 
 # ⚡ Profile | Vue.js
 
